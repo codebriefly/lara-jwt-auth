@@ -12,5 +12,4 @@ You can check our site Code Briefly (https://codebriefly.com/) for more intersti
 
 Please feel free to send any suggestion or query to us (https://codebriefly.com/contact-us/).
 
-:)
-
+:smiley:
