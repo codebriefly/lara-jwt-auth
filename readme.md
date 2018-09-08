@@ -8,6 +8,8 @@ You can read the full article on the official website (https://codebriefly.com/l
 
 ## About codebriefly.com
 
+<p align="center"><img src="https://codebriefly.com/wp-content/uploads/2018/01/logo.svg" alt="CodeBriefly"></p>
+
 You can check our site Code Briefly (https://codebriefly.com/) for more intersting tutorials and resources. We are trying our best to to provide valuable resources and tutorials. Also you can submit guest post and resorces on our site (https://codebriefly.com/join-us/).
 
 Please feel free to send any suggestion or query to us (https://codebriefly.com/contact-us/).
